@@ -16,4 +16,3 @@ I’m a Full Stack Developer who is passionate about making error-free Websites,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bhuiyan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Bhuiyan&show_icons=true&count_private=true)  
