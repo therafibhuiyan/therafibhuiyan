@@ -9,7 +9,6 @@ I’m a Full Stack Developer who is passionate about making error-free Websites,
 ✅ JavaScript <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: therafibhuiyan@gmail.com 
 
 
