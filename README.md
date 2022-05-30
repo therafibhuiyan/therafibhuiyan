@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rafi Bhuiyan
 #### Software Engineer
-I’m a Full Stack Developer who is passionate about making error-free Websites, Software, and Android Apps with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS, React Native, JavaScript as well as PHP, and Laravel.
+I’m a Full Stack Developer who is passionate about making error-free Website, Software, and Android App with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS, React Native, JavaScript as well as PHP, and Laravel.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ MySQL <br>
